@@ -1,1 +1,4 @@
-rootProject.name = 'stage2-build-tools-gradle'
+rootProject.name = 'stage2-build-tools-gradle-task1'
+
+include 'utils'
+include 'demo'
